@@ -3,6 +3,7 @@
   "displayName": "pk: a picker",
   "description": "picks things with fuzzy finding",
   "version": "0.0.1",
+  "publisher": "ryanthedev",
   "engines": {
     "vscode": "^1.97.0"
   },
