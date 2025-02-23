@@ -4,6 +4,9 @@
   "description": "picks things with fuzzy finding",
   "version": "0.0.1",
   "publisher": "ryanthedev",
+  "repository": {
+    "url": "https://github.com/ryanthedev/pk"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
